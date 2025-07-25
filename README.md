@@ -1,5 +1,5 @@
 # Anycubic Card
-## Home Asssistant card for Anycubic Printers (via the Anycubic Cloud integration)
+## Home Assistant card for Anycubic Printers (via the Anycubic Cloud integration)
 
 
 ## Features
